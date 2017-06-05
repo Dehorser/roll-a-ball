@@ -1,12 +1,18 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "roll-a-ball", "roll-a-ball.csproj", "{D220385B-5959-C678-B71E-1EF4702775B7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D220385B-5959-C678-B71E-1EF4702775B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D220385B-5959-C678-B71E-1EF4702775B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D220385B-5959-C678-B71E-1EF4702775B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D220385B-5959-C678-B71E-1EF4702775B7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
